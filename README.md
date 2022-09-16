@@ -1,16 +1,13 @@
-# flutter_todo_app
+# CS 279 Programming HW2
 
-A new Flutter project.
+This repo contains the code for a basic To Do App website made with Flutter. The main code can be found in the lib/main.dart file.
 
-## Getting Started
+On this To Do App website, users can create and check off tasks which are added to a To Do List. This site also has the additional functionality of being able to reorder the tasks in the list using drag and drop.
 
-This project is a starting point for a Flutter application.
+The final site can be accessed here: https://eshika-todo-app-flutter.herokuapp.com/#/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The following tutorials were used as the base for the code:
+  * https://daily-dev-tips.com/posts/build-a-todo-list-app-with-flutter/
+  * https://medium.com/the-web-tub/making-a-todo-app-with-flutter-5c63dab88190
+  * https://www.section.io/engineering-education/how-to-build-a-flutter-todo-app/
+  * https://mobikul.com/reorderable-listview-in-flutter/

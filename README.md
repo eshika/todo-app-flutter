@@ -11,3 +11,7 @@ The following tutorials were used as the base for the code:
   * https://medium.com/the-web-tub/making-a-todo-app-with-flutter-5c63dab88190
   * https://www.section.io/engineering-education/how-to-build-a-flutter-todo-app/
   * https://mobikul.com/reorderable-listview-in-flutter/
+
+The following resources were used to deploy the app with Heroku: 
+* https://medium.com/@wendreof/how-publish-flutter-web-app-on-heroku-github-pages-f4df95bdd385
+* https://github.com/diezep/heroku-buildpack-flutter
